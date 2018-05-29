@@ -2,7 +2,7 @@
 
 Axis control with microcontroller and learned position memory.
 
-This code was done as part of the Microcontrollers and Power Electronics course at UNCuyo (Universidad Nacional de Cuyo, Argentina). A final report, in Spanish, is available in the 'doc' folder.
+This code was done as part of the Microcontrollers and Power Electronics course at UNCuyo (Universidad Nacional de Cuyo, Argentina). A final report, in Spanish, is available in 'doc' folder.
 
 ## Blocks Diagram
 
