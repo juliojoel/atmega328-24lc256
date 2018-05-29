@@ -8,11 +8,11 @@ This code was done as part of the Microcontrollers and Power Electronics course 
 
 <p align="center"><img src="images/blocks.png" /></p>
 
-## Flow diagram
+## Flow Diagram
 
 <p align="center"><img src="images/flow.png" /></p>
 
-## Serial port commands
+## Serial Port Commands
 
 <p align="center"><img src="images/commands.png" /></p>
 
